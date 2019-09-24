@@ -10,4 +10,8 @@ public class TestActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+    public static String printMessage(String message){
+        return message +"v1.0";
+    }
 }
