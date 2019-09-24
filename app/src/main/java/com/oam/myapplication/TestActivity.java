@@ -12,6 +12,6 @@ public class TestActivity extends AppCompatActivity {
     }
 
     public static String printMessage(String message){
-        return message +"v1.0";
+        return message +"v2.0";
     }
 }
